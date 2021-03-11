@@ -10,7 +10,7 @@ For import Color Functions on your script, just use this code:
 ```
 #External Color Functions#
 ##################################
-curl -skL https://git.hostgator.com.br/monitoramento/colors-functions/-/raw/master/colors.sh \
+curl -skL https://raw.githubusercontent.com/igorhrq/colors-funtions/main/colors.sh \
 | tee -a /tmp/externalfunctions.sh
 [[ -z `cat /tmp/externalfunctions.sh | grep Validate_Line_01` ]] &&
 { echo -e "The Fuction Colors was cannot be added.";exit;}
