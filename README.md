@@ -1,3 +1,5 @@
+[[_TOC_]]
+
 ## Colors Functions
 
 This function is for usage at scripts to import like an include for example and you will have a set of colors to use on your bash code.
