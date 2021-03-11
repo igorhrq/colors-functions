@@ -2,6 +2,7 @@
 # HostGator LatAm
 #
 # Thanks to: Alan Victor from ConsultaLinux.org
+# Thanks to: Renan S from HostGator LatAm
 #
 # Date: 11/03/2021 03:50 AM
 #
