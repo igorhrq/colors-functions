@@ -1,4 +1,3 @@
-[[_TOC_]]
 
 ## Colors Functions
 
@@ -8,7 +7,7 @@ This function is for usage at scripts to import like an include for example and 
 
 For import Color Functions on your script, just use this code:
 
-#. External Color Functions .#
+#External Color Functions#
 ##################################
 curl -skL https://git.hostgator.com.br/monitoramento/colors-functions/-/raw/master/colors.sh \
 | tee -a /tmp/externalfunctions.sh
